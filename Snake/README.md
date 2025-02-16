@@ -1,2 +1,0 @@
-# Snake
-First snake game
